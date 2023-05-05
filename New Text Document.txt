@@ -1,0 +1,4 @@
+sairam baba
+yamel and python these are the languages which are more efficient and can be used in writing ansible play book scripts
+using python they have written ansible if you are familiar with the python
+there are many modules in ansible but if you have any requirements we use system modules if you have any requirement.
